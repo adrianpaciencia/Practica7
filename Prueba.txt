@@ -1,1 +1,6 @@
 Hola prueba
+<<<<<<< HEAD
+=======
+Una l�nea m�s
+He añadido otra línea
+>>>>>>> 9057865c1b3726fd32bf0e518aad0c945ef53019
